@@ -1,0 +1,59 @@
+Body{
+    background-color: black;
+    color: white;
+    font-family: 'Special Elite', cursive;
+}
+
+#head{
+    font-size: 50px;
+    color: lightsalmon;
+}
+
+#head img{
+    width: 100px;
+}
+
+.View{
+    border: solid 5px skyblue;
+    width: 500px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px silver;
+    margin-bottom: 25px;
+    margin: 68px;
+}
+
+label{
+    background-color: lightskyblue;
+    color: orangered;
+    font-size: 25px;
+    width: 375px;
+    border-bottom-right-radius: 25px ;
+    border-bottom-left-radius:25px ;
+}
+
+#WebCam, #pic{
+    width: 400;
+    background-color:lightgoldenrodyellow;
+    height: 400px;
+    border-radius: 25px;
+}
+
+#Tring{
+    background-color: orangered;
+    width: 400px;
+    height: 25px;
+    border: none ;
+    color: springgreen;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px ;
+}
+
+.footer h4{
+    background-color: plum;
+    border-radius: 25px;
+    padding: 5px;
+}
+
+.footer img{
+    width: 125px;
+}
