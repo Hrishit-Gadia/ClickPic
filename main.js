@@ -3,8 +3,8 @@ Webcam.set({
     width: 400,
     image_format : 'png',
     png_quality : 100,
-    Constraints:{
-        facingMode : 'environment'
+    Constraints: {
+        facingMode : "environment"
     }
 });
 Webcam.attach('WebCam');
